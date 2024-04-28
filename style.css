@@ -1,0 +1,61 @@
+.h1 {
+    color: blue;
+    font-family:'Times New Roman', Times, serif  ;
+
+} 
+.miclase{
+    background-color: blueviolet;
+}
+div {
+    width: 400px; height: 150px;
+    background-color: blueviolet;
+    border: 4px dotted;
+    padding: 40%;
+    margin: 50px;
+    display: inline-table;
+    text-align: center;
+}
+div p {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: chartreuse;
+
+}
+
+.rojo{
+   background-color: red;
+   width: auto;
+}
+.gris{
+    background-color: gray;
+    width: 100px;
+}
+.verde {
+    background-color: green;
+    width: 200px;
+}
+.azul {
+    background-color: blue;
+    width: 300px;
+
+}
+.c1 {
+    color: blue;
+    font-size: 4;
+}.c2 {
+    color: rgb(0, 255, 145);
+    
+}
+.c3 {
+    color: rgb(255, 0, 81);
+    
+}
+.c4 {
+    color: rgb(255, 230, 0);
+}
+.c5 {
+    color: rgb(238, 0, 255);
+}
